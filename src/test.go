@@ -1,4 +1,4 @@
  test
 
-var b bug fix
+var b false bug fix
 
