@@ -1,3 +1,3 @@
  test
 
-var a
+var b false bug fix
