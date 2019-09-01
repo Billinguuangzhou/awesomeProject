@@ -1,4 +1,4 @@
-//author: billdai
+//author: billdai 2019/08/14
 package main
 
 import "fmt"
